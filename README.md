@@ -1,7 +1,6 @@
-## Nome do projeto
-Freeway com JavaScript 
+## Freeway com JavaScript 
 
-## Descrição do projeto
+#### Descrição do projeto
 Este projeto teve como objetivo desenvolver o jogo Freeway com a linguagem JavaScript no p5.js editor. 😀
 
 
@@ -10,6 +9,7 @@ Este projeto teve como objetivo desenvolver o jogo Freeway com a linguagem JavaS
 | :label: Tecnologia | JavaScript
 | :rocket: URL       | [Código](https://github.com/adrianycmc/freewayComJS)
 | :fire: Desafio     | [Clique aqui para jogar](https://editor.p5js.org/adrianycmc/full/z9xKCQbOX)
+| 🌐 Status | Finalizado
 
 
 ## Detalhes do projeto
