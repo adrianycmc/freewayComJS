@@ -16,3 +16,5 @@ Este projeto teve como objetivo desenvolver o jogo Freeway com a linguagem JavaS
 
 Este foi o meu segundo projeto desenvolvendo um jogo utilizando a linguagem JavaScript.
 Para realizar alterações recomendo como editor, o mesmo que usei, p5.js.
+
+![Inserir um título (2)](https://user-images.githubusercontent.com/108768964/229605707-458711ac-b160-4037-b75a-b72efd604391.png)
