@@ -50,7 +50,7 @@ Para contribuir com Freeway, siga estas etapas:
 <br>
 
 <p align="left">
-  Caso queira trocar entrar em contato: ⤵️
+  Caso queira entrar em contato: ⤵️
 </p>
 
 <p align="left">
